@@ -205,4 +205,4 @@ MIT — use it however you want. Attribution appreciated but not required.
 - [skills.sh](https://skills.sh) — community skills directory for AI coding agents
 - [obra/superpowers](https://github.com/obra/superpowers) — structured AI development workflow
 - [Claude Code](https://claude.ai/code) — the AI coding assistant used
-- [Google Antigravity IDE](https://idx.dev) — the cloud IDE used
+- [Google Antigravity IDE](https://antigravity.google/product/antigravity-ide/) — the cloud IDE used
