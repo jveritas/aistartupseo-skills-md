@@ -72,7 +72,7 @@ The article covers:
 ### Option 2: Clone this repo
 
 ```bash
-git clone https://github.com/jveritas/skills-md.git
+git clone https://github.com/jveritas/aistartupseo-skills-md.git
 cp skills-md/skills.md /path/to/your/project/
 ```
 
@@ -81,7 +81,7 @@ cp skills-md/skills.md /path/to/your/project/
 Claude Code automatically reads markdown files in your project root. Just drop `skills.md` into your repo:
 
 ```bash
-curl -O https://raw.githubusercontent.com/jveritas/skills-md/main/skills.md
+curl -O https://raw.githubusercontent.com/jveritas/aistartupseo-skills-md/main/skills.md
 ```
 
 Then start Claude Code — it picks up the instructions immediately.
